@@ -36,6 +36,7 @@ _Note: most projects include a link to the relevant tutorial from [my website](h
 
 ## Advanced
 
+- **[Flutter State Management: Movies App with Provider, Riverpod, flutter_bloc](https://github.com/bizz84/movies_app_state_management_flutter)**
 - **[Starter Architecture Demo for Flutter & Firebase Realtime Apps](https://github.com/bizz84/starter_architecture_flutter_firebase)**: Reference architecture demo that can be used as a starting point for apps using Flutter & Firebase.
 - **[nCoV 2019 Backend REST API and Admin Web Client](https://github.com/bizz84/ncov2019-api-and-webclient)**: Backend and Flutter web dashboard for my [Flutter REST API course](https://nnbd.me/fr).
 
