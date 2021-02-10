@@ -40,6 +40,10 @@ _Note: most projects include a link to the relevant tutorial from [my website](h
 - **[Starter Architecture Demo for Flutter & Firebase Realtime Apps](https://github.com/bizz84/starter_architecture_flutter_firebase)**: Reference architecture demo that can be used as a starting point for apps using Flutter & Firebase.
 - **[nCoV 2019 Backend REST API and Admin Web Client](https://github.com/bizz84/ncov2019-api-and-webclient)**: Backend and Flutter web dashboard for my [Flutter REST API course](https://nnbd.me/fr).
 
+## Packages on pub.dev
+
+- **[page_flip_builder](https://pub.dev/packages/page_flip_builder)**: A custom Flutter widget that enables interactive page-flip transitions in your app.
+
 ## Other
 
 - [CodeWithAndrea Flutter Packages](https://github.com/bizz84/codewithandrea_flutter_packages): A collection of packages created to increase code reuse across many of my Flutter projects. These are **NOT** published on [pub.dev](https://pub.dev) and are subject to change at any time.
