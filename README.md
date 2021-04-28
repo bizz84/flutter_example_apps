@@ -33,6 +33,7 @@ _Note: most projects include a link to the relevant tutorial from [my website](h
 - **[Example GitHub Search app built in Flutter & RxDart](https://github.com/bizz84/github_search_flutter_client_rxdart_example)**: Search-as-you-type with RxDart and the GitHub API.
 - **[RxDart by example: combineLatest and data modeling with Firestore](https://github.com/bizz84/rxdart_combine_latest_example_movie_app)**: A simple movie favourites app showing how to use `combineLatest` to combine data from two Firestore collections into one stream.
 - **[Flight CO2 Calculator app](https://github.com/bizz84/flight_co2_calculator_flutter)**. Slick app to calculate the CO2 emissions for flights between any pair of airports.
+- **[Game of Life](https://github.com/bizz84/game_of_life_flutter)**: simple Flutter demo showing a few different patterns from [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
 
 ## Advanced
 
