@@ -34,6 +34,7 @@ _Note: most projects include a link to the relevant tutorial from [my website](h
 - **[RxDart by example: combineLatest and data modeling with Firestore](https://github.com/bizz84/rxdart_combine_latest_example_movie_app)**: A simple movie favourites app showing how to use `combineLatest` to combine data from two Firestore collections into one stream.
 - **[Flight CO2 Calculator app](https://github.com/bizz84/flight_co2_calculator_flutter)**. Slick app to calculate the CO2 emissions for flights between any pair of airports.
 - **[Game of Life](https://github.com/bizz84/game_of_life_flutter)**: simple Flutter demo showing a few different patterns from [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
+- **[Flutter Animations Gallery](https://github.com/bizz84/flutter_animations_gallery/)**. A showcase of the most common Flutter animation APIs.
 
 ## Advanced
 
@@ -57,6 +58,7 @@ This section contains the source code for my Dart, Flutter & Firebase courses on
 - **[Dart course exercises, solutions and projects](https://github.com/bizz84/dart-course-materials)** (Dart [course link](https://nnbd.me/dart))
 - **[Time Tracker App source code](https://github.com/bizz84/time_tracker_flutter_course)** (Flutter & Firebase [course link](https://nnbd.me/ff))
 - **[Coronavirus App source code](https://github.com/bizz84/coronavirus_rest_api_flutter_course)** (Flutter REST API Crash [course link](https://nnbd.me/fr))
+- **[Flutter Animations Course projects](https://github.com/bizz84/flutter_animations_course_materials)** (Flutter Animations [course link](https://nnbd.me/fa))
 
 ## Outdated
 
