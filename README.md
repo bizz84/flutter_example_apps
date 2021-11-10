@@ -35,6 +35,7 @@ _Note: most projects include a link to the relevant tutorial from [my website](h
 - **[Flight CO2 Calculator app](https://github.com/bizz84/flight_co2_calculator_flutter)**. Slick app to calculate the CO2 emissions for flights between any pair of airports.
 - **[Game of Life](https://github.com/bizz84/game_of_life_flutter)**: simple Flutter demo showing a few different patterns from [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
 - **[Flutter Animations Gallery](https://github.com/bizz84/flutter_animations_gallery/)**. A showcase of the most common Flutter animation APIs.
+- **[Flutter Mood Tracking app](https://github.com/bizz84/mood_tracker_flutter)**. An example Flutter app showing how to work with Cloud Functions and the Firebase Local Emulator.
 
 ## Advanced
 
